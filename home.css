@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin:20px;
+    min-height: 90vh;
+    background-color: rgb(79, 175, 175);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.basic{
+    background-color: aqua;
+    
+}
+.about{
+    margin:10px;
+    
+}
+.about h1{
+    color:darkblue;
+}
+.about p{
+    margin-left:40px;
+}
+.skills{
+    margin:10px;
+}
+.skills h1{
+    color:darkblue
+}
+ul {
+    margin-left:50px;
+}
+.projects{
+     margin:10px;
+}
+.projects h1{
+    color:darkblue;
+}
+.services{
+     margin:10px;
+}
+.services h1{
+    color:darkblue;
+}
+.price{
+     margin:10px;
+}
+.price h1{
+    color:darkblue;
+}
+.choose{
+     margin:10px;
+}
+.choose h1{
+    color:darkblue;
+}
+.contact{
+     margin:10px;
+}
+.contact h1{
+    color:darkblue;
+}
+
